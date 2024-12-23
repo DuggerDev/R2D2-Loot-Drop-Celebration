@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# About
+This plugin allows R2D2 to celebrate you getting a valuable loot drop.
